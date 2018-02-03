@@ -1,3 +1,6 @@
 a new hard was created
 f
 b
+c
+d
+e
